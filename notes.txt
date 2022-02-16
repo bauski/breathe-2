@@ -1,5 +1,7 @@
 Use Local Storage for this project
     https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+Instead of passing variables to set attributes in components, try css variables with js again
+https://loading.io/css/
 Tapping for breathing cadance
 movable menu icon
     non-movable in mobile
